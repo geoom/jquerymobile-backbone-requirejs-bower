@@ -1,4 +1,4 @@
-jquerymobile-backbone-requirejs-bower
-=====================================
+jQuery Mobile, Backbone.js, RequireJS and Bower integration
+================================
 
-A demo app using jquery-mobile, backbone, requirejs and bower together
+A demo app using Jquery Mobile, Backbone.js, requireJS and Bower together within a Node.js environment 
