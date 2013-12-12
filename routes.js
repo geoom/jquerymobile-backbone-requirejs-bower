@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.send('Im index');
+  res.render('index', { title:'jquerymobile-backbone-requirejs-bower'});
 };
